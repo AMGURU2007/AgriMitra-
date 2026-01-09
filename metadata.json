@@ -1,0 +1,9 @@
+{
+  "name": "AgriMitra - AI Rural Farming Assistant",
+  "description": "A comprehensive AI-driven platform for rural Indian farmers providing crop recommendations, market price trends, and government scheme eligibility via web and voice interfaces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
